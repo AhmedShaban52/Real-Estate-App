@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "title":"For Rent",
+        "text":"verified",
+        "description":"AMAZINGLY FURNISHED 2BHK DUPLEX || READY TO MOVE IN || CALL US NOW",
+        "price":"$4899",
+        "monthly":"monthly",
+        "image":"/images/House.webp",
+        "image2":"/images/Car.svg",
+        "image3":"/images/Bathtub.svg",
+        "image4":"/images/ArrowsOut.svg",
+        "image5":"/images/personImg.svg",
+        "image6":"/images/Add.svg",
+        "image7":"/images/Favorite.svg",
+        "image8":"/images/Share.svg"
+    },
+    {
+        "id":2,
+        "title":"For Rent",
+        "text":"verified",
+        "description":"LUXURIOUSLY FURNISHED DUPLEX 3BHK || READY TO MOVE IN || CALL US NOW",
+        "price":"$4899",
+        "monthly":"monthly",
+        "image":"/images/House-2.webp",
+        "image2":"/images/Car.svg",
+        "image3":"/images/Bathtub.svg",
+        "image4":"/images/ArrowsOut.svg",
+        "image5":"/images/personImg.svg",
+        "image6":"/images/Add.svg",
+        "image7":"/images/Favorite.svg",
+        "image8":"/images/Share.svg"
+    },
+    {
+        "id":3,
+        "title":"For Rent",
+        "text":"verified",
+        "description":"READY TO MOVE IN STUDIO || AMAZING INTERIOR || CALL US NOW",
+        "price":"$4899",
+        "monthly":"monthly",
+        "image":"/images/House-3.webp",
+        "image2":"/images/Car.svg",
+        "image3":"/images/Bathtub.svg",
+        "image4":"/images/ArrowsOut.svg",
+        "image5":"/images/personImg.svg",
+        "image6":"/images/Add.svg",
+        "image7":"/images/Favorite.svg",
+        "image8":"/images/Share.svg"
+    }
+    , {
+        "id":4,
+        "title":"For Rent",
+        "text":"verified",
+        "description":"CLASSY STUDIO || WELL FURNISHED || CONTACT US NOW",
+        "price":"$4899",
+        "monthly":"monthly",
+        "image":"/images/House-4.webp",
+        "image2":"/images/Car.svg",
+        "image3":"/images/Bathtub.svg",
+        "image4":"/images/ArrowsOut.svg",
+        "image5":"/images/personImg.svg",
+        "image6":"/images/Add.svg",
+        "image7":"/images/Favorite.svg",
+        "image8":"/images/Share.svg"
+    }
+]
